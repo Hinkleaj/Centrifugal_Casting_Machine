@@ -2,8 +2,8 @@
 
 <div align="center"><img src="Media/Picture1.jpg" width="100%"></div>
 <div align="center"><i>Open Source Motor Driven Casting Machine With Adjustable Balance Weight</i></div>
-
-
+<br>
+<br>
 This is a casting machine for investment casting small parts from soft metals. I designed and built it in 2021 for a university lab as my bachelor's thesis project. All documentation for the machine, as well as the casting procedure and SOP documents, can be found in the REPORT pdf, and all of the parts and assemblies are in the CAD zip file (Solidworks). This casting machine is released under the Creative Commons Zero v1.0 Universal open source license. 
 
 
